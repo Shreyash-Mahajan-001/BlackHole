@@ -4,6 +4,9 @@
 
 An Open-Source Music Player App for all your needs!
 
+## Download
+- [Download the latest release](https://github.com/Shreyash-Mahajan-001/BlackHole/releases/download/BlackHole/BlackHole-arm64-v8a-release.apk) 
+
 ## Features
 
 - Best Streaming Quality (320kbps aac)
